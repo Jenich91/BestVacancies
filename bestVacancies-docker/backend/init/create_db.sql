@@ -1,2 +1,0 @@
-DROP DATABASE IF EXISTS jobsearch;
-CREATE DATABASE jobsearch;
